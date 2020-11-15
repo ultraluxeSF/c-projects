@@ -10,6 +10,8 @@ namespace Console
     {
         static void Main(string[] args)
         {
+            System.Console.Write("Hello Github!");
+            System.Console.ReadKey();
         }
     }
 }
